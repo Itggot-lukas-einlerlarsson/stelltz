@@ -1,1 +1,5 @@
-
+1. Jag vill skapa en ställplatsapp. Jag vill att backend ska vara en golang app, frontend ska vara react.
+Jag vill att appen ska ha en karta över ställplatser. Jag vill använda GEOjson standard för hantering av platser.
+Jag vill att GUI ska innehålla en karta och en hamburgare meny.
+Jag vill att man ska kunna registrera sig. Man ska kunna publicera en ställplats och man ska kunna boka en också.
+ 
